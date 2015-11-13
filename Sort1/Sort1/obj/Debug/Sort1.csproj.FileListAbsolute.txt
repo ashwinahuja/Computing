@@ -1,0 +1,6 @@
+c:\users\ashwin\documents\visual studio 2015\Projects\Sort1\Sort1\bin\Debug\Sort1.exe.config
+c:\users\ashwin\documents\visual studio 2015\Projects\Sort1\Sort1\bin\Debug\Sort1.exe
+c:\users\ashwin\documents\visual studio 2015\Projects\Sort1\Sort1\bin\Debug\Sort1.pdb
+c:\users\ashwin\documents\visual studio 2015\Projects\Sort1\Sort1\obj\Debug\Sort1.csprojResolveAssemblyReference.cache
+c:\users\ashwin\documents\visual studio 2015\Projects\Sort1\Sort1\obj\Debug\Sort1.exe
+c:\users\ashwin\documents\visual studio 2015\Projects\Sort1\Sort1\obj\Debug\Sort1.pdb

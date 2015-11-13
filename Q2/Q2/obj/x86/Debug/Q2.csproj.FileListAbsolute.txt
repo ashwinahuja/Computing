@@ -1,0 +1,4 @@
+C:\Users\Ashwin\Documents\Projects\Q2\Q2\bin\Debug\Q2.exe
+C:\Users\Ashwin\Documents\Projects\Q2\Q2\bin\Debug\Q2.pdb
+C:\Users\Ashwin\Documents\Projects\Q2\Q2\obj\x86\Debug\Q2.exe
+C:\Users\Ashwin\Documents\Projects\Q2\Q2\obj\x86\Debug\Q2.pdb

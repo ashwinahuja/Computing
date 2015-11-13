@@ -1,0 +1,4 @@
+C:\Users\Ashwin\Documents\Projects\pi2\pi2\bin\Debug\pi2.exe
+C:\Users\Ashwin\Documents\Projects\pi2\pi2\bin\Debug\pi2.pdb
+C:\Users\Ashwin\Documents\Projects\pi2\pi2\obj\x86\Debug\pi2.exe
+C:\Users\Ashwin\Documents\Projects\pi2\pi2\obj\x86\Debug\pi2.pdb

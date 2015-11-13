@@ -1,0 +1,4 @@
+C:\Users\Ashwin\Documents\Projects\Q12002BIO\Q12002BIO\bin\Debug\Q12002BIO.exe
+C:\Users\Ashwin\Documents\Projects\Q12002BIO\Q12002BIO\bin\Debug\Q12002BIO.pdb
+C:\Users\Ashwin\Documents\Projects\Q12002BIO\Q12002BIO\obj\x86\Debug\Q12002BIO.exe
+C:\Users\Ashwin\Documents\Projects\Q12002BIO\Q12002BIO\obj\x86\Debug\Q12002BIO.pdb

@@ -1,0 +1,6 @@
+c:\users\ashwin\documents\visual studio 2015\Projects\Classwork1409\Classwork1409\bin\Debug\Classwork1409.exe.config
+c:\users\ashwin\documents\visual studio 2015\Projects\Classwork1409\Classwork1409\bin\Debug\Classwork1409.exe
+c:\users\ashwin\documents\visual studio 2015\Projects\Classwork1409\Classwork1409\bin\Debug\Classwork1409.pdb
+c:\users\ashwin\documents\visual studio 2015\Projects\Classwork1409\Classwork1409\obj\Debug\Classwork1409.csprojResolveAssemblyReference.cache
+c:\users\ashwin\documents\visual studio 2015\Projects\Classwork1409\Classwork1409\obj\Debug\Classwork1409.exe
+c:\users\ashwin\documents\visual studio 2015\Projects\Classwork1409\Classwork1409\obj\Debug\Classwork1409.pdb

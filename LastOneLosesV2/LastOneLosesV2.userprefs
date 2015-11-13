@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="LastOneLosesV2\LastOneLosesV2.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LastOneLosesV2\Program.cs">
+    <Files>
+      <File FileName="LastOneLosesV2\Program.cs" Line="36" Column="42" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

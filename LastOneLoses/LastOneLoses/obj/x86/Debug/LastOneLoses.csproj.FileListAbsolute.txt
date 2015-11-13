@@ -1,0 +1,4 @@
+C:\Users\Ashwin\Documents\Projects\LastOneLoses\LastOneLoses\bin\Debug\LastOneLoses.exe
+C:\Users\Ashwin\Documents\Projects\LastOneLoses\LastOneLoses\bin\Debug\LastOneLoses.pdb
+C:\Users\Ashwin\Documents\Projects\LastOneLoses\LastOneLoses\obj\x86\Debug\LastOneLoses.exe
+C:\Users\Ashwin\Documents\Projects\LastOneLoses\LastOneLoses\obj\x86\Debug\LastOneLoses.pdb

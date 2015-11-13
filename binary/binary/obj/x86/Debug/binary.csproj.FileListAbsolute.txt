@@ -1,0 +1,4 @@
+C:\Users\Ashwin\Documents\Projects\binary\binary\bin\Debug\binary.exe
+C:\Users\Ashwin\Documents\Projects\binary\binary\bin\Debug\binary.pdb
+C:\Users\Ashwin\Documents\Projects\binary\binary\obj\x86\Debug\binary.exe
+C:\Users\Ashwin\Documents\Projects\binary\binary\obj\x86\Debug\binary.pdb

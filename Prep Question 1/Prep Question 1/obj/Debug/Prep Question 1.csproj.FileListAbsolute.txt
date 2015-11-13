@@ -1,0 +1,6 @@
+c:\users\ashwin\documents\visual studio 2015\Projects\Prep Question 1\Prep Question 1\bin\Debug\Prep Question 1.exe.config
+c:\users\ashwin\documents\visual studio 2015\Projects\Prep Question 1\Prep Question 1\bin\Debug\Prep Question 1.exe
+c:\users\ashwin\documents\visual studio 2015\Projects\Prep Question 1\Prep Question 1\bin\Debug\Prep Question 1.pdb
+c:\users\ashwin\documents\visual studio 2015\Projects\Prep Question 1\Prep Question 1\obj\Debug\Prep Question 1.csprojResolveAssemblyReference.cache
+c:\users\ashwin\documents\visual studio 2015\Projects\Prep Question 1\Prep Question 1\obj\Debug\Prep Question 1.exe
+c:\users\ashwin\documents\visual studio 2015\Projects\Prep Question 1\Prep Question 1\obj\Debug\Prep Question 1.pdb

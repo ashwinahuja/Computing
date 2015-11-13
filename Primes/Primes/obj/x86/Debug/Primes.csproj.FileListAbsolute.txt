@@ -1,0 +1,4 @@
+C:\Users\Ashwin\Documents\Projects\Primes\Primes\bin\Debug\Primes.exe
+C:\Users\Ashwin\Documents\Projects\Primes\Primes\bin\Debug\Primes.pdb
+C:\Users\Ashwin\Documents\Projects\Primes\Primes\obj\x86\Debug\Primes.exe
+C:\Users\Ashwin\Documents\Projects\Primes\Primes\obj\x86\Debug\Primes.pdb

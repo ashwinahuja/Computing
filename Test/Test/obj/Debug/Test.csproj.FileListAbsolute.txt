@@ -1,0 +1,16 @@
+C:\Users\Ashwin\Documents\Projects\Test\Test\bin\Debug\Test.dll
+C:\Users\Ashwin\Documents\Projects\Test\Test\bin\Debug\Test.pdb
+C:\Users\Ashwin\Documents\Projects\Test\Test\bin\Debug\com.ashwinahuja.test.apk
+C:\Users\Ashwin\Documents\Projects\Test\Test\bin\Debug\com.ashwinahuja.test-Signed.apk
+C:\Users\Ashwin\Documents\Projects\Test\Test\obj\Debug\Test.dll
+C:\Users\Ashwin\Documents\Projects\Test\Test\obj\Debug\Test.pdb
+C:\Users\Ashwin\Documents\Projects\Test\Test\obj\Debug\android\bin\com.ashwinahuja.test.apk
+C:\Users\Ashwin\Documents\Projects\Test\Test\obj\Debug\res\layout\main.xml
+C:\Users\Ashwin\Documents\Projects\Test\Test\obj\Debug\res\values\strings.xml
+C:\Users\Ashwin\Documents\Projects\Test\Test\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\Ashwin\Documents\Projects\Test\Test\obj\Debug\res\drawable-mdpi\icon.png
+C:\Users\Ashwin\Documents\Projects\Test\Test\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\Ashwin\Documents\Projects\Test\Test\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\Ashwin\Documents\Projects\Test\Test\obj\Debug\res\drawable-xxxhdpi\icon.png
+C:\Users\Ashwin\Documents\Projects\Test\Test\obj\Debug\R.cs.flag
+C:\Users\Ashwin\Documents\Projects\Test\Test\obj\Debug\uploadflags.txt

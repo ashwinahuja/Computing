@@ -1,0 +1,4 @@
+Test.MainActivity, Test;md506ee150bf8cb4fa2e12aa1a945ce2c24.MainActivity
+Test.MainActivity, Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md506ee150bf8cb4fa2e12aa1a945ce2c24.MainActivity
+Test.MainActivity;md506ee150bf8cb4fa2e12aa1a945ce2c24.MainActivity
+test.MainActivity;md506ee150bf8cb4fa2e12aa1a945ce2c24.MainActivity

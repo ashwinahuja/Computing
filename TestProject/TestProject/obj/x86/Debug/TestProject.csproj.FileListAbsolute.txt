@@ -1,0 +1,5 @@
+C:\Users\Ashwin\Documents\Projects\TestProject\TestProject\bin\Debug\TestProject.exe
+C:\Users\Ashwin\Documents\Projects\TestProject\TestProject\bin\Debug\TestProject.pdb
+C:\Users\Ashwin\Documents\Projects\TestProject\TestProject\obj\x86\Debug\TestProject.csprojResolveAssemblyReference.cache
+C:\Users\Ashwin\Documents\Projects\TestProject\TestProject\obj\x86\Debug\TestProject.exe
+C:\Users\Ashwin\Documents\Projects\TestProject\TestProject\obj\x86\Debug\TestProject.pdb

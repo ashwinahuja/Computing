@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="Primes\Primes.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Primes\Program.cs">
+    <Files>
+      <File FileName="..\..\..\Downloads\Program.cs" Line="24" Column="10" />
+      <File FileName="Primes\Program.cs" Line="23" Column="34" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

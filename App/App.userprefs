@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="App\App.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\..\Desktop\CYCLONE\Software - GitHub\COMPUTING\Input.cs">
+    <Files>
+      <File FileName="..\..\..\Desktop\Program\Program.cs" Line="59" Column="10" />
+      <File FileName="..\..\..\Desktop\CYCLONE\Software - GitHub\COMPUTING\Input.cs" Line="142" Column="49" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
