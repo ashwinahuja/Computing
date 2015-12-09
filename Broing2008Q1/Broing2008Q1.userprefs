@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="Broing2008Q1\Broing2008Q1.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Broing2008Q1\Program.cs">
+    <Files>
+      <File FileName="Broing2008Q1\Program.cs" Line="27" Column="7" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

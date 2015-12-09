@@ -1,0 +1,4 @@
+C:\Users\Ashwin\Documents\Projects\2012BIOQ1\2012BIOQ1\bin\Debug\2012BIOQ1.exe
+C:\Users\Ashwin\Documents\Projects\2012BIOQ1\2012BIOQ1\bin\Debug\2012BIOQ1.pdb
+C:\Users\Ashwin\Documents\Projects\2012BIOQ1\2012BIOQ1\obj\x86\Debug\2012BIOQ1.exe
+C:\Users\Ashwin\Documents\Projects\2012BIOQ1\2012BIOQ1\obj\x86\Debug\2012BIOQ1.pdb

@@ -1,0 +1,4 @@
+C:\Users\Ashwin\Documents\Projects\BIOQ3Shirts\BIOQ3Shirts\bin\Debug\BIOQ3Shirts.exe
+C:\Users\Ashwin\Documents\Projects\BIOQ3Shirts\BIOQ3Shirts\bin\Debug\BIOQ3Shirts.pdb
+C:\Users\Ashwin\Documents\Projects\BIOQ3Shirts\BIOQ3Shirts\obj\x86\Debug\BIOQ3Shirts.exe
+C:\Users\Ashwin\Documents\Projects\BIOQ3Shirts\BIOQ3Shirts\obj\x86\Debug\BIOQ3Shirts.pdb

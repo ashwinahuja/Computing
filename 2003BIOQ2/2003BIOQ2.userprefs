@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="2003BIOQ2\2003BIOQ2.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="2003BIOQ2\Program.cs">
+    <Files>
+      <File FileName="2003BIOQ2\Program.cs" Line="28" Column="29" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
